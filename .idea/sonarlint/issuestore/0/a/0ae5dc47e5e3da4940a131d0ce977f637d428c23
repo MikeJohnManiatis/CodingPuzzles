@@ -1,0 +1,8 @@
+
+0
+java:S1220""Move this file to a named package.
+E
+java:S1125"(Remove the literal "true" boolean value.(ˆÂâ°8Ó¹Š.
+F
+java:S1125 ")Remove the literal "false" boolean value.(ñŠ½‚8•¬ıŠ.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ8’½„‹.

@@ -1,0 +1,10 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜ÔºÑùÿÿÿÿ8ûÉˆ.
+A
+java:S1659"Declare "w" on a separate line.(º—¡üÿÿÿÿÿ8ûÉˆ.
+>
+java:S1643("Use a StringBuilder instead.(æõ›¾øÿÿÿÿ8ûÉˆ.
+U
+java:S1197"8Move the array designator from the variable to the type.(±˜™8ûÉˆ.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(º¹ñôüÿÿÿÿ8ûÉˆ.
